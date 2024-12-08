@@ -1,0 +1,23 @@
+.sidebar {
+    position:fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 12%;
+    background-color: blueviolet;
+}
+.sidebar a {
+    display: block;
+    text-decoration: none;
+    padding-top: 15px;
+    padding-left: 30px;
+    font-size: 20px;
+    color: aliceblue;
+}
+.content {
+    margin-left: 15%;
+}
+
+.section {
+    display: none;
+}
